@@ -3,6 +3,8 @@ By Xiao Sun, Song Wang and Jucheng Yang
 
 Code for "Rapid and Independent Defense Against Adversarial Patch Attacks in Autonomous Driving"
 
+# Requirements
+Experiments were done with opencv-python 4.10.0.84 and numpy 1.24.3 .
 
 # Datasets
 Download the digital adversarial patch attack datasets from ModelScope (https://modelscope.cn/datasets/xpe811/RID_datasets): ImageNet-drive (Targeted Attack, Untargeted Attack, Low-frequency Patch Attack), COCO-drive (TOG-patch Attack), and INRIA (T-SEA Attack).
